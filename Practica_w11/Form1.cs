@@ -98,12 +98,12 @@ namespace Practica_w11
 
         private void PracticaW11_Load(object sender, EventArgs e)
         {
-            for (int i = 0; i < 10; i++)
+            for (int i = 2; i < 11; i++)
             {
                 cbGrosor.Items.Add(i/2F);
             }
 
-            cbGrosor.SelectedIndex = 4;
+            cbGrosor.SelectedIndex = 3;
 
         }
 

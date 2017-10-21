@@ -238,7 +238,7 @@
             this.cbGrosor.MaxDropDownItems = 10;
             this.cbGrosor.Name = "cbGrosor";
             this.cbGrosor.Size = new System.Drawing.Size(69, 23);
-            this.cbGrosor.TabIndex = 0;
+            this.cbGrosor.TabIndex = 1;
             this.cbGrosor.Text = "2,5";
             this.cbGrosor.ValueMember = "2,5";
             // 
